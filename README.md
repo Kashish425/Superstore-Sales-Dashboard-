@@ -101,3 +101,6 @@ Geographic visualization showing sales and profit distribution across the United
 
 **Trend Analysis:** Monthly trends help plan inventory and promotional strategies.
 
+**Screenshot**
+![Dashboard Screenshot](https://github.com/Kashish425/Superstore-Sales-Dashboard-/blob/main/Superstore%20Sales%20Dashboard.png)
+
