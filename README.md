@@ -1,9 +1,13 @@
 # Superstore-Sales-Dashboard
+
 **1. Project Title / Headline**
+
 📊 Super Store Sales & Profit Analysis Dashboard
+
 A dynamic, interactive Power BI dashboard built to analyze sales, profit, and operational performance across regions, categories, and customer segments, with a focus on trends, shipping efficiency, and product-level insights.
 
 **2. Short Description / Purpose**
+
 The Super Store Sales Dashboard helps you track sales performance, profit trends, and customer behavior across different regions and categories. You use it to identify top-performing segments, optimize shipping methods, and monitor monthly growth patterns.
 
 **3. Tech Stack**
@@ -21,11 +25,14 @@ The dashboard was built using the following tools and technologies:
 **• 📁 File Format –** .pbix for development and .png for dashboard previews
 
 **4. Data Source**
+
 Source: Superstore Sales Dataset
 The dataset includes order-level data covering sales, profit, shipping mode, region, category, sub-category, customer segment, and order dates. It enables analysis of performance across time, geography, and product hierarchy.
 
 **5. Features / Highlights**
+
 **• Business Problem**
+
 Retail businesses handle large volumes of sales data across regions, products, and shipping methods. Without a structured dashboard, it is hard to track performance trends, identify profit drivers, and optimize operations.
 
 Key questions include:
